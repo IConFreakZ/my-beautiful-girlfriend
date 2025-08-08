@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>To Brianna — A Message From Me</title>
+  <style>
+    body {
+      background: #f9f7f1;
+      color: #333;
+      font-family: 'Georgia', serif;
+      max-width: 700px;
+      margin: 3rem auto;
+      padding: 0 1.5rem;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      margin-bottom: 2rem;
+      color: #2c3e50;
+    }
+    p {
+      margin-bottom: 1.25rem;
+    }
+    .signature {
+      margin-top: 3rem;
+      font-style: italic;
+      text-align: right;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>To Brianna — A Message From Me</h1>
+  <p>Brianna makes me feel things I never thought possible. She is the embodiment of a perfect woman. Not only is she the most beautiful girl I've ever laid my eyes on, she also has a seemingly impossibly more beautiful heart.</p>
+  <p>She has respect for herself, respect that she deserves. She is incredibly hard working and dedicated to being successful, whether that’s in her career or just her life in general.</p>
+  <p>She is the biggest lover of cats you will ever meet. I swear if anyone could communicate with a cat it would be her.</p>
+  <p>Every look into her eyes makes me feel like I'm falling for her all over again. Many times I look into her eyes and am speechless. I take a second to hold eye contact with her and savor every moment of it. I then try to fathom how to sum up what that feels like by telling her she looks so beautiful. Words aren’t enough for all the good things about her.</p>
+  <p>She loves to play tennis, pickleball, and if she could have enough players for a beer league softball team she would.</p>
+  <p>She’s very creative, and loves to make arts and crafts. We made bracelets together one time, although the string is falling apart, I will keep that bracelet together as long as I can.</p>
+  <p>A few other things she's made me are a little replica of my favorite guitar to play, such an awesome Sublime Lego (that’s not enough to describe how awesome this thing is — she individually selected every color to make this for me over months), and also another thing I treasure from her is my birthday card from last year. She wrote me an incredibly sweet note, and finished it with the first “I love you” I've heard from her.</p>
+  <p>I’ve known her for such a long time now, and over the years she’s grown to be my favorite person in my life. She makes me feel like there’s someone in the world that wants me here.</p>
+  <p>I struggle a lot with self love, and though she isn’t too fond of giving verbal affection or affirmations, she shows up for me every day and that’s all I need.</p>
+  <p>Hopefully one day she can feel how deeply I love her. Every day that passes is another day I wish I could tell her how much I do love her, but I’m going to keep waiting until she’s comfortable.</p>
+  <p>I really hope that I will be lucky enough to spend the rest of my life with someone so special.</p>
+  <p class="signature">— Dane</p>
+</body>
+</html>
